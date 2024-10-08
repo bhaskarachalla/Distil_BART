@@ -17,13 +17,13 @@ This project focuses on fine-tuning the DistilBART model, a more efficient versi
 
 
  ![image](https://github.com/user-attachments/assets/edbfab27-a1af-41c8-8030-c44172e9bb5e)
+ 
 
+# Warning:A GPU is strongly recommended for optimal performance. Running this process without a GPU may significantly strain your system, potentially leading to performance issues.
 
 
 ## Overview
 This notebook fine-tunes the DistilBART model to summarize text from a historical dataset. The model generates summaries based on input "parv" (chapters), helping to condense large text sections into concise summaries.
-
-# Warning:A GPU is strongly recommended for optimal performance. Running this process without a GPU may significantly strain your system, potentially leading to performance issues.
 
 ## Model
 - **Model Used**: DistilBART (`sshleifer/distilbart-cnn-12-6`).
