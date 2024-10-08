@@ -15,7 +15,9 @@ This project focuses on fine-tuning the DistilBART model, a more efficient versi
 - [Results](#results)
 - [Future Work](#future-work)
 
-                                          ![image](https://github.com/user-attachments/assets/edbfab27-a1af-41c8-8030-c44172e9bb5e)
+
+ ![image](https://github.com/user-attachments/assets/edbfab27-a1af-41c8-8030-c44172e9bb5e)
+
 
 
 ## Overview
